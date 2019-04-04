@@ -1,7 +1,7 @@
 # Rhythmé - An entertainment service
 
 #### It is a responsive static website for a non-existent entertainment company.
-#### Check it out [here](https://itsbaldeep.github.io/media-service-website/)
+#### Check it out [here](https://itsbaldeep.github.io/rhythme/)
 
 ## Made with:
 
